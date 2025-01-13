@@ -55,7 +55,7 @@ if(isset($_POST['add'])) {
             box-sizing: border-box;
         }
         .form-container input[type="submit"] {
-            background-color: #4CAF50;
+            background-color: #4682b4;
             color: white;
             border: none;
             padding: 10px;
@@ -65,10 +65,10 @@ if(isset($_POST['add'])) {
             font-size: 16px;
         }
         .form-container input[type="submit"]:hover {
-            background-color: #45a049;
+            background-color: #4682b4;
         }
         .form-container input[type="submit"]:active {
-            background-color: #388e3c;
+            background-color: #4682b4;
         }
     </style>
 </head>
